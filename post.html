@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post - Ushnish K Chakraborty</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <!-- Marked library to render Markdown into HTML -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        header {
+            position: sticky;
+            top: 0;
+            background-color: #ffffff;
+            z-index: 1000;
+            text-align: center;
+            padding: 15px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        header h1 {
+            font-size: 24px;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+        nav a {
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .section {
+            background: #fff;
+            padding: 30px;
+            margin-top: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .post-date {
+            color: #777;
+            font-size: 14px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 30px;
+            color: #0066cc;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+            color: #666;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>USHNISH K CHAKRABORTY</h1>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="sample-links.html">Sample Articles</a> | 
+            <a href="about-me.html">About Me</a> | 
+            <a href="services-4.html">Services & Pricing</a> | 
+            <a href="blog.html">Blog</a>
+        </nav>
+    </header>
+
+    <div class="section">
+        <h2 id="post-title">Loading...</h2>
+        <div id="post-date" class="post-date"></div>
+        <div id="post-content"></div>
+
+        <a href="blog.html" class="back-link">← Back to Blog List</a>
+    </div>
+
+    <footer>
+        <p>© 2026 by Ushnish K Chakraborty.</p>
+    </footer>
+
+    <script>
+        const repoOwner = 'ushnish3';
+        const repoName = 'ushscribbles';
+
+        async function loadPost() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const fileName = urlParams.get('file');
+
+            if (!fileName) {
+                document.getElementById('post-title').textContent = 'Post not found';
+                return;
+            }
+
+            try {
+                const response = await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/posts/${fileName}`);
+                if (!response.ok) throw new Error('Post not found');
+
+                const text = await response.text();
+
+                // Extract frontmatter metadata
+                const titleMatch = text.match(/title:\s*["']?(.*?)["']?\n/);
+                const dateMatch = text.match(/date:\s*["']?(.*?)["']?\n/);
+
+                const title = titleMatch ? titleMatch[1] : 'Blog Post';
+                const rawDate = dateMatch ? dateMatch[1] : '';
+                const formattedDate = rawDate ? new Date(rawDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
+
+                // Extract body markdown content
+                const markdownBody = text.replace(/---[\s\S]*?---/, '').trim();
+
+                // Update page title and text
+                document.title = `${title} - Ushnish K Chakraborty`;
+                document.getElementById('post-title').textContent = title;
+                if (formattedDate) {
+                    document.getElementById('post-date').textContent = `Published on ${formattedDate}`;
+                }
+                
+                // Render Markdown to HTML
+                document.getElementById('post-content').innerHTML = marked.parse(markdownBody);
+
+            } catch (err) {
+                console.error(err);
+                document.getElementById('post-title').textContent = 'Error loading post';
+            }
+        }
+
+        loadPost();
+    </script>
+</body>
+</html>
