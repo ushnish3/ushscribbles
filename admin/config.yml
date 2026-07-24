@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
-  branch: main # Change to 'master' if your repo default branch is named master
+  branch: main # or master if your branch is named master
+  site_domain: https://ushscribbles.netlify.app/.netlify/identity
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
