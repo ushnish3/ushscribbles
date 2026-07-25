@@ -1,5 +1,5 @@
 ---
-title: "The Midnight Coffee Run"
+title: "sample story"
 date: "2026-06-15"
 ---
 
