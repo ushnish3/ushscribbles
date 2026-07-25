@@ -134,7 +134,7 @@
                 const response = await fetch(`https://raw.githubusercontent.com/${owner}/${repo}/main/${folder}/${encodeURIComponent(fileName)}`);
                 
                 if (!response.ok) throw new Error('Story not found');
-                const text = await response.json();
+                const text = await response.text();
 
                 // 2. Extract metadata and strip frontmatter (assuming the file has Frontmatter)
                 const titleMatch = text.match(/title:\s*["']?(.*?)["']?\n/);
