@@ -3,11 +3,11 @@ title: "The Ghost Army of World War II (History & Forgotten Stories)"
 date: "2026-07-26"
 ---
 
-![][image1]
-
 During World War II, the U.S. Army created the 23rd Headquarters Special Troops, better known as the Ghost Army. 
 
 Formed in 1944, their job was to trick the German military with fake troops, inflatable gear, and theatrics.
+
+![][image1]
 
 The Army packed this 1,100-man unit with artists and engineers from top design schools instead of combatants. 
 
