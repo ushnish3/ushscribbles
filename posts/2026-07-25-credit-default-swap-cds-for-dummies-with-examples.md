@@ -1,116 +1,127 @@
 ---
-title: Credit Default Swap (CDS) for Dummies With Examples
-date: 2026-07-25T09:09:00.000+05:30
+title: "Counting the Costs: The Alarming Rise of Medical Expenses in 2025"
+date: 2026-07-25T09:10:00.000+05:30
 ---
-Credit default swap (CDS) was introduced by Blythe Masters, the youngest woman to become managing director at J.P. Morgan. With $30 trillion in traded volume in 2022, CDS is one of the most used financial derivatives in the banking sector. However, it’s often criticized for the lack of regulations and its contributions to the [2008 crisis](https://www.britannica.com/event/financial-crisis-of-2007-2008). 
+Let’s get into a couple of quick…boring…awakening…worrying…alarming… but *totally not surprising* stats first. 
 
-By definition, CDS is a financial derivative that allows the lenders (typically a bank) to minimize losses (defaults) through a contract with another investor. In general, ongoing premium payments are made by the lender to ensure reimbursement of the agreed amount upon default.
+If you’ve recently been to a care delivery point, you probably have noticed that healthcare costs in the US are skyrocketing. In fact, they’re rising at their fastest in over a decade. Employer-sponsored plans are set to jump 8% in 2025, driving individual insurance and care costs up by 7.5%—**double the 3.8% increase in national earnings**. 
 
-However, the definitions aren’t good enough to understand CDS. Let’s discuss CDS like we’re 5\.  
+Despite promises of affordability beyond political commitments, including a more stringent verification for Medicare & Medicaid and the No Surprises Act, medical expenses continue to outpace wage growth, making healthcare and staying healthy a luxury item.
 
-## How CDSs Work
+So, as healthcare costs break new records, the real question is: How much longer can the average American afford to stay healthy?
 
-Say you (Lender Larry) loan someone $100 and charge a simple interest of 10% for it to be repaid in a year. Your borrower (Borrower Bob) is expected to pay you back $110 after the said term. 
+Let’s find out.
 
-However, being as skeptical as you are, you aren’t sure about getting repaid. Therefore, you offer an outsider (Outsider Oslo) to accept a quarterly premium of $2, totaling $8 to reimburse the loan amount in case of a default. 
+## Why Are Healthcare Costs Rising So Fast?
 
-As expected, after 9 months, Bob loses his job and pays you $80 out of the $100. As promised, Oslo reimburses the remaining $20 and stops receiving the premiums. 
+Healthcare costs have always included hidden operational inefficiencies—hospitals hiring people to negotiate with insurers, cost-shifting from unpaid bills to paying patients, staff shortage, and malpractice lawsuits driving up premiums. 
 
-As Larry, you receive your full payment by paying just $6 to Outsider Oslo. While you lose money in this case as Oslo, not every loan is defaulted and reimbursed.
+So, if we were already paying for everything, why have healthcare costs been rising so fast in the last couple of years? 
 
-Typically, CDSs are described as financial insurance. **The *CDS buyer* pays the premium to the *CDS seller* who guarantees the repayments.** 
+### H3: Hospitals & Providers Are Charging More
 
-## Parties involved in a CDS
+Hospitals, private equity investments, and physician consolidations are key drivers of rising healthcare costs. Over the past year, hospital and related service costs have risen by more than 6.3%, continuing the trend of healthcare expenditure lagging behind hospital wage inflation.   
+In simple words, this means that wages for hospital workers—including nurses, doctors, and support staff—are increasing faster than overall healthcare spending. It shifts financial pressure on the patients and inflates healthcare costs even more.
 
-Generally, five parties are involved in a CDS contract.  
+One key issue is that government programs like Medicare and Medicaid have strict regulations on reimbursement rates and eligibility redeterminations, limiting how much hospitals can charge for services. For example, Medicaid has seen a decline of 6.5 million in enrollment in 2023 and is expected to see a further 2 million reduction in 2025\. 
 
-1. ### CDS Buyer
+To compensate for these financial pressures, hospitals are increasingly relying on contracts with private commercial health insurance companies to cover their growing expenses in premiums and higher out-of-pocket costs, which you ultimately have to bear the rising costs of.
 
-The institution or individual that purchases the protection. A CDS buyer is obligated to pay premiums to the CDS seller. 
+### H3: Prescription Drugs Are More Expensive Than Ever
 
-2. ### CDS Seller
+Pharmaceutical companies have done exceptional jobs at innovating drugs and therapies for many chronic conditions. While the benefits to patients and their loved ones are immeasurable, R\&D creates inflationary pressure on prescription drug costs. 
 
-The CDS seller sells the protection in exchange for assuming the risk of a credit event. In most cases, hedge funds, banks, and insurance companies take the risk of being a CDS seller. They receive payments in periodic premiums from the buyer. 
+Cell and gene therapies for rare diseases, novel treatments for obesity, and effective drugs for neuro conditions like Alzheimer’s, Parkinson’s, and schizophrenia are raising the overall cost of brand-name medications, riding on the success and demand of these solutions.   
+For example, Novo Nordisk raised the price of Ozempic by 3.5% last year, and while the media was focused on the blockbuster medication, 900 other brand-drug prices were hiked at a median increase of over 4.7%. 
 
-3. ### Reference Entity
+This is also often a result of cost-shifting practices. While the manufacturers face backlash for increasing the prices of their golden drug, they can offset their costs by increasing the prices of less scrutinized drugs, usually those with fewer alternatives. 
 
-The entity whose credit risk is being speculated in the CDS contract. This can be anyone from corporations to countries. The first CDS was purchased by J.P. Morgan in the face of a $5 billion threat due to the [Exxon Valdez oil spill](https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill).
+Many insurers have also started reconsidering coverage for GLP-1 drugs like Ozempic due to their higher price. If we move away from Ozempic to a, say, less effective alternative, it might create an upward cost pressure and increase the overall medication costs.  
 
-4. ### Reference Obligation
+### H3: The “Pandemic Backlog” Is Driving Up Demand
 
-Reference obligation is the financial instrument that determines the payout in case of a credit event. You can think of it as a weighing scale. Just as a scale can be used to determine the value of a product, the reference obligations (bonds, loans, ABS, CDO) can be used to define the value of the payout needed. 
+COVID-19 has taken a lot from humankind. Losing our loved ones was a toll heavy enough on our mental health for us to seek proper medical care for ourselves at that time. You were not alone; Scotland experienced a 73% increase in the elective care waiting list over the four years the pandemic persisted. 
 
-5. ### Clearinghouse
+The NHS aims to have at least 92% of patients receive treatments within 18 weeks from referral, but this goal hasn’t been met since 2025, and it has only worsened after 2019, with only around 50% of patient care matching the standards. 
 
-Clearinghouse is the mediator that oversees the whole CDS contract. The clearinghouse helps institutions find common ground and facilitates a resolution between the parties through collateral and contract transparency. ICE Clear Credit and LCH Clearnet are two prominent CDS clearing services. 
+By October 2022, an estimated 10.2 million referrals had been missed in NHS England due to pandemic disruptions. Hospitals worldwide continue to struggle with backlogs, and just to prevent them from worsening, they are expected to expand capacity by 20% in the coming years. This surge in demand for healthcare professionals, medications, equipment, and other essential resources is driving up healthcare costs.
 
-## How premiums are determined
+The personal health-related financial situations were also not very promising during that time. Over 90% of gastrointestinal cancer patients and 61% of breast cancer patients had experienced stage progression when surgeries were postponed. And as you may expect, delayed surgeries, and to be honest, any delayed medical care, can worsen the situation, ultimately raising the costs more than 14% per day in acute cases.
 
-Discussing CDS premium calculations is beyond the scope of the article. However, in between the upfront payments and CDS spread, there are a few key factors that determine the premiums of CDS contracts. 
+## H2: Who Pays the Price? The Everyday Impact of Rising Costs
 
-### Creditworthiness
+You probably already know the answer, but here is a deep dive into the complex burden of healthcare costs. 
 
-As expected, the creditworthiness of the reference entity (borrower) is the major contributing factor to how CDS premiums are calculated. CDS spread, expressed in basis points (bps), are the measure of the creditworthiness of that entity. 1 basis point typically equals 0.01%. For example, if CDS spread on a reference entity is 400 bps, the associated interest rate would be 4.00%. 
+### Higher Insurance Premiums and Out-of-Pocket Costs
 
-### Contract Duration
+When providers raise their prices, insurance companies do not simply absorb the hit. They pass it along to you through higher premiums, steeper deductibles, and more painful copays. Even employees lucky enough to have insurance through their jobs are noticing that their take-home pay does not stretch as far because more of it is being siphoned off into healthcare coverage. For many households, that translates into difficult trade-offs about where to cut back.
 
-Duration of the CDS also contributes to the premiums payable to the CDS seller (or protection seller) by the CDS buyer (Protection buyer). Typically, durations are calculated in quarters. 
+### Employers Are Shifting Costs to Workers
 
-### Supply and Demand
+Employers are also struggling to keep up with climbing insurance expenses, which means many of them are shifting more of the burden onto their staff. Narrow provider networks, high-deductible health plans, and aggressive cost-sharing models are increasingly the norm. In practice, that means workers must pay much more out of pocket before their insurance even begins to cover anything meaningful. The end result is a paycheck that feels smaller and a safety net that is full of holes.
 
-If the demand for protection or CDS for a particular entity is high, the premiums will also be higher. In easier words, the higher the risk, the higher the price. 
+### Medicaid and Medicare Patients Face New Challenges
 
-### Volatility
+Millions of people are also losing Medicaid coverage as eligibility reviews become stricter. Enrollment has already been declining, and the projections for 2025 point to another steep drop. On the Medicare side, costs are climbing too. Part B premiums are expected to rise to $185 per month this year, and hospital deductibles are going up alongside prescription drug costs. Seniors and low-income families are being squeezed, leaving them with fewer care options and higher financial strain.
 
-Market volatility and economic downturns may also contribute to the premium amounts. If any industry is facing high volatility during a quarter, the CDS premiums may also increase.  
+## H2: What’s Being Done to Address the Crisis? (And Why It’s Not Enough)
 
-### CDS Premium Formula
+Most of the so-called fixes promised are either too slow, too small, or too focused on protecting profits instead of patients. Some changes sound good on paper, but when you look at your bill or your paycheck, the savings are nowhere to be found.
 
-Two formulas are used to calculate upfront payments and premiums. But, let’s discuss the variables first. 
+### The Promise of Cheaper Drugs (But Reality Says Otherwise)
 
-* CDS Spread: A percentage determined for the reference entity. Spread can vary depending on the credit risk.   
-* CDS Coupon: The pre-fixed percentage that usually doesn’t change during the lifetime of the contract.    
-* Duration: Duration of the loan or bond.   
-* Protection leg: The total value of contingent payment promised by the CDS seller to the buyer in case of credit events.   
-* Premium leg: Total value of payments made by the CDS buyer to the seller.   
-* Notional amount: The principal lending amount. 
+Biosimilars were supposed to be the answer to high-priced drugs, offering alternatives at a fraction of the cost. Yet adoption is lagging, partly because large pharmaceutical companies are adept at finding loopholes to maintain their grip on pricing. Even when generics or biosimilars are available, patients often do not see the savings they were promised.
 
-Now, coming to the formulas: 
+### Payers and Providers Claim They’re Cutting Costs—But Are They?
 
-* Upfront payment \= (Protection leg \- premium leg)  
-* Premium \[%\] \= (CDS spread \- CDS coupon) \* Duration
+Health insurers and hospitals like to say they are working to lower costs, but their strategies often look more like revenue protection than true affordability initiatives. Consolidation has also played a huge role. When a handful of big players dominate entire regions, patients have fewer choices and no real bargaining power, which keeps prices high.
 
-For example,   
-Assume that the CDS spread on a reference entity is 400 basis points (4.00%) and the notional amount of the CDS contract is $10 million. Also, assume that the CDS coupon rate is 100 basis points (1.00%) per year, payable quarterly.
+### Government Efforts and Policy Changes
 
-The annual cost of CDS protection would be 3.00% (400 bps \- 100 bps). Therefore, the protection buyer would pay an annual premium of $300,000 ($10 million x 3.00%) to the protection seller for the life of the contract.
+Policy makers have attempted to step in, but progress has been sluggish. The Inflation Reduction Act gave Medicare the authority to negotiate drug prices, yet its impact is gradual and limited in scope. Price transparency rules now require hospitals to publish their rates, but that has not stopped them from billing at the highest levels the market will tolerate.
 
-## Types of credit events
+### Tailored Products and Services
 
-A credit event is the trigger of the CDS contract. In a CDS contract, several credit events relating to the reference entity may be mentioned to enforce the CDS payout.   
-A few of them may include: 
+Health systems and insurers are beginning to experiment with more targeted products designed to meet consumer needs. For example, about one-fifth of healthcare executives report prioritizing new health and wellness services as a way to attract and retain patients. While this sounds promising, it is not yet translating into widespread affordability.
 
-### Bankruptcy
+### Affordability and Accessibility Remain Obstacles
 
-In the most common use case, if the reference entity files for bankruptcy, the CDS contracts are made operational. 
+Cost continues to be the number one reason patients skip care. Long wait times, inconvenient office hours, lack of transportation, and caregiving responsibilities add further barriers. Even when services are technically available, many people still cannot practically access them without disruption to their lives and finances.
 
-### Failure to pay
+### Rebuilding Trust and Improving Transparency
 
-This credit event occurs when the reference entity fails to make a scheduled payment, although a single missed payment may not trigger the contract.
+Patients have long memories when it comes to bad experiences with healthcare, and trust is fragile. The growing use of artificial intelligence in decision-making has added another layer of anxiety, especially when people fear their data privacy is at risk. Without clear communication and genuine transparency, this distrust will only deepen.
 
-### Restructuring
+### Digital Investment for Growth
 
-In case of debt repudiation, debt moratorium, debt conversion, debt subordination, or any changes to the debt obligations, the CDS contract may be enforced or become obsolete. 
+Healthcare executives are betting big on digital platforms that make it easier for patients to book appointments, access records, and use telehealth. Roughly one-third of them are prioritizing technology as a growth driver for 2025\. These efforts are promising, yet unless they directly reduce costs, they may feel like convenience wrapped in higher bills.
 
-### Obligation acceleration
+### Cybersecurity and Data Protection
 
-This credit event occurs when the reference entity’s debt becomes due and payable before its scheduled maturity date. 
+As healthcare goes digital, the risk of cyberattacks grows. A majority of health system leaders say they are making cybersecurity a priority, not only to protect patient data but also to shield their reputations. While this investment is necessary, it also adds another layer of cost pressure that eventually gets passed down to consumers.
 
-### Obligation default
+### Health Equity as a Growth Strategy
 
-This occurs when the reference entity defaults on its debt obligations. For example, if the CDS buyer is unable to pay the premiums. 
+Only a minority of executives see health equity as a business priority, but the truth is that addressing disparities could open new markets and create more sustainable care models. Expanding access to quality care for underserved groups is both a moral imperative and a strategic opportunity, though the industry has been slow to act.
 
-## The Bottom Line
+## H2: Conclusion: The Future of Healthcare
 
-Despite the criticism and risks associated with Credit Default Swap (CDS) contracts, the uses often outweigh the drawbacks. In this article, I’ve discussed the mechanism of CDS, the calculation of premiums, and a few credit events.   
-If you like my article and want such premium content for your website, do leave an email at: [ushnish3@gmail.com](mailto:ushnish3@gmail.com) 
+All signs point to continued escalation in medical costs. Without bold reform, accountability, and systemic change, patients will carry the weight of rising expenses well into the future. Efforts to rein in costs are underway, but they remain fragmented and insufficient compared to the pace of price increases.
+
+The critical question remains: will healthcare become affordable again before millions more Americans are forced to forgo care?
+
+## Reference Links: 
+
+1. [Medical cost trend: Behind the numbers: PwC](https://www.pwc.com/us/en/industries/health-industries/library/behind-the-numbers.html)  
+2. [https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare-in-2025-and-beyond](https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare-in-2025-and-beyond)  
+3. [Healthcare costs projected to rise to highest levels in 13 years in 2025](https://www.healthcare-brew.com/stories/2024/07/24/healthcare-costs-projected-rise-highest-levels-next-year)  
+4. [Health Care Cost Projections 2025](https://www.shrm.org/in/topics-tools/tools/express-requests/health-care-costs-projections-2025)  
+5. [2025 Global Medical Trends Survey \- WTW](https://www.wtwco.com/en-in/insights/2024/10/2025-global-medical-trends-survey)  
+6. [collaboratemd.com/blog/rising-healthcare-costs/](https://www.collaboratemd.com/blog/rising-healthcare-costs/)  
+7. [Key Drivers of 2025 Healthcare Cost Increases | TIS Insurance Services, Inc.](https://www.tisins.com/key-drivers-of-2025-healthcare-cost-increases/)  
+8. [Guide to Combating Rising Healthcare Costs in 2025 | INSURICA](https://insurica.com/blog/guide-to-combating-rising-healthcare-costs-in-2025/)  
+9. [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02744-7/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(23\)02744-7/fulltext)  
+10. [https://www.ijsurgery.com/index.php/isj/article/view/9562](https://www.ijsurgery.com/index.php/isj/article/view/9562)  
+11. [https://pmc.ncbi.nlm.nih.gov/articles/PMC11910793/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11910793/)  
+12. [https://www.mckinsey.com/industries/healthcare/our-insights/cutting-through-the-covid-19-surgical-backlog](https://www.mckinsey.com/industries/healthcare/our-insights/cutting-through-the-covid-19-surgical-backlog)  
+13. [https://www.england.nhs.uk/2025/01/major-plan-to-cut-waiting-lists-will-see-millions-receive-faster-diagnosis-and-treatment/](https://www.england.nhs.uk/2025/01/major-plan-to-cut-waiting-lists-will-see-millions-receive-faster-diagnosis-and-treatment/)
