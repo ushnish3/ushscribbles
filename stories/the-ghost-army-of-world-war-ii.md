@@ -1,6 +1,5 @@
 ---
-title: "The Ghost Army of World War II (History & Forgotten Stories)"
-date: "2026-07-26"
+title: "The Ghost Army of World War II"
 ---
 
 During World War II, the U.S. Army created the 23rd Headquarters Special Troops, better known as the Ghost Army. 
