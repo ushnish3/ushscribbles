@@ -1,6 +1,5 @@
 ---
 title: "Why Facebook Is Losing Active Users In 2022: How it’s Different Now"
-date: 2022-07-25T00:20:00.000+05:30
 ---
 Facebook frequently keeps deleting fake and spam user accounts. But, they were yet to see a reduced daily active user before 2022\. The loss of more than 1 million active users in the first half of 2022, in addition to businesses moving out of Facebook, had definitely kept the executives awake. 
 
