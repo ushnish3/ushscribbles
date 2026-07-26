@@ -1,5 +1,5 @@
 ---
-title: "When Fixes Backfire: The Story of the Cobra Effect" date: "2026-07-26"
+title: "When Fixes Backfire: The Story of the Cobra Effect"
 ---
 When we’re offered monetary incentives to solve a widely critical problem, we seek to stretch the incentive as much as we can, often making the problems worse. 
 
