@@ -1,6 +1,5 @@
 ---
 title: "Designing Data Pipelines After Lineage and Dashboards Stop Helping"
-date: 2026-07-26T00:20:00.000+05:30
 ---
 A food delivery company roughly [lost 60,000 customer orders](https://deliveryhero.jobs/blog/how-contract-testing-helped-our-organization-to-prevent-production-incidents/) between 2023 and 2024 due to unannounced API changes, which broke contracts between services and the data pipeline. This is the tech equivalent of removing a bridge and then acting surprised when cars start falling into the river.
 
