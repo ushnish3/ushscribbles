@@ -1,6 +1,5 @@
 ---
 title: "Counting the Costs: The Alarming Rise of Medical Expenses in 2025"
-date: 2026-07-25T09:10:00.000+05:30
 ---
 Let’s get into a couple of quick…boring…awakening…worrying…alarming… but *totally not surprising* stats first. 
 
